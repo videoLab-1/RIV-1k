@@ -9,3 +9,5 @@
  ## 数据集结构
 * 视频：对应0-13个文件夹，每个文件夹对应一种网络情况下测量得到的视频
 * RIV-1K数据集.xlsx：完整的数据集
+## 数据集下载
+链接: https://pan.baidu.com/s/1s1jX6-HruBJtTjsFQZVIlA?pwd=ggjw 提取码: ggjw 
